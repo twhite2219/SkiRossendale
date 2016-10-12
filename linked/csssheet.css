@@ -1,0 +1,60 @@
+
+html {
+	background: url(../img/bg-body.gif);
+	color:#525253;
+	font:13px/18px Arial, sans-serif;
+}
+
+			
+h1, h2 {
+		color:#000;
+		font-family:bebas-neue, "League Gothic", Arial Narrow, Arial, sans-serif;
+		font-size:36px;
+		font-weight:normal;
+	}
+	h3 {
+	}
+
+	h4, a {
+		color:#e98500;
+	}
+
+
+#head {
+background: url(../img/header.png) no-repeat;
+	height:131px;
+	width:754px;
+	
+}
+
+table{
+border-collapse:collapse;
+}
+
+table 
+{
+width:20px;
+padding:0;
+cellspacing:0;
+background-color:white
+ }
+
+td button
+{
+font-size:7px;margin:0;padding:0;width:20px;height:13px;
+font-size:7px;
+ margin:0;
+  padding:0;
+   width:20px;
+    height:13px;
+	background-color:white
+	}
+	
+td
+{
+width:50px;
+ height:23px;
+ text-align:center;
+  background-color:white
+  }
+}
